@@ -1,8 +1,8 @@
 {
-  "raml-js-parser-222" : {
+  "raml-js-parser-2" : {
     "build" : "npm run build",
     "test" : "gulp test",
-    "gitUrl" : "https://github.com/raml-org/raml-js-parser-2.git",
+    "gitUrl" : "https://github.com/raml-org/raml-js-parser-2222.git",
     "gitBranch" : "code",
     "installTypings" : true
   },
@@ -20,11 +20,6 @@
   "ts-structure-parser" : {
     "build" : "npm run build",
     "gitUrl" : "https://github.com/mulesoft-labs/ts-structure-parser.git",
-    "installTypings" : true
-  },
-  "atom-ui-lib" : {
-    "build" : "npm run build",
-    "gitUrl" : "https://github.com/mulesoft-labs/ui-libs.git",
     "installTypings" : true
   },
   "yaml-ast-parser" : {
