@@ -1,4 +1,5 @@
 # RAML Definition System
+[![Build Status](https://travis-ci.org/ddenisenko/raml-definition-system-1.svg?branch=master)](https://travis-ci.org/ddenisenko/raml-definition-system-1)
 
 > This repository contains a set of interfaces that represents a declarative description of the RAML specification.
 
