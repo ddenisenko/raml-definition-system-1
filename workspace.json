@@ -1,12 +1,5 @@
 {
-  "api-workbench" : {
-    "build" : "gulp build",
-    "test" : "gulp test",
-    "gitUrl" : "https://github.com/mulesoft-labs/api-workbench",
-    "gitBranch" : "parserExtract",
-    "installTypings" : true
-  },
-  "raml-js-parser-2" : {
+  "Renaming parser module in workspace." : {
     "build" : "npm run build",
     "test" : "gulp test",
     "gitUrl" : "https://github.com/raml-org/raml-js-parser-2.git",
@@ -32,10 +25,5 @@
   "yaml-ast-parser" : {
     "build" : "npm run build",
     "gitUrl" : "https://github.com/mulesoft-labs/yaml-ast-parser.git"
-  },
-  "atom-ui-lib" : {
-    "build" : "npm run build",
-    "gitUrl" : "https://github.com/mulesoft-labs/ui-libs.git",
-    "installTypings" : true
   }
 }
